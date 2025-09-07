@@ -15,4 +15,4 @@ Reviews are stored in **Supabase (Postgres)** and displayed using **EJS template
 - View all past reviews (latest on top)  
 - Live deployment on Render  
 
-  [Live Demo(https://reviews-app-y5h4.onrender.com/)] 
+  [Live Demo](https://reviews-app-y5h4.onrender.com/) 
